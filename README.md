@@ -2,11 +2,15 @@
 
 exercice d'un projet de site en php de boutique en ligne
 
-installer le serveur xampp
+installer le serveur xampp https://www.apachefriends.org/fr/download.html
 
-installer les fichiers du repertoire dans htdocs
+xampp s'installe a la racine du disque
+
+télécharger le code en zip et 
+installer les fichiers du repertoire dans le repertoire c:/xampp/htdocs/boutiquephp/
 
 créer une BDD "boutique" dans mysql puis créer une table avec ce code :
+
 CREATE TABLE `article` (
   `id` int(11) NOT NULL,
   `nom` varchar(255) NOT NULL,

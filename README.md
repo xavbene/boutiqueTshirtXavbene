@@ -24,3 +24,11 @@ lancer Apache et mySQL dans xampp
 
 puis taper https://localhost/boutiquephp/ dans un navigateur
 
+
+pensez a installer Xamp et etc
+
+ezfhqgzelvibqerl
+Burger
+hot dog
+pizza
+lasagne

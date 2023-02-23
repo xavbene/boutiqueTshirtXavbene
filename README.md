@@ -18,3 +18,5 @@ CREATE TABLE `article` (
 
 lancer Apache et mySQL dans xampp 
 
+puis taper https://localhost/boutiquephp/ dans un navigateur
+

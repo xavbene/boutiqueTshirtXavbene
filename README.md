@@ -1,7 +1,20 @@
 # boutiqueTshirtXavbene
 
 exercice d'un projet de site en php de boutique en ligne
+
 installer le serveur xampp
-installer le repertoir dans htdocs
-lancer xampp 
-Il faut créer la base dans PHPmyadmin et l'installer dans xamp
+
+installer les fichiers du repertoire dans htdocs
+
+créer une BDD "boutique" dans mysql puis créer une table avec ce code :
+CREATE TABLE `article` (
+  `id` int(11) NOT NULL,
+  `nom` varchar(255) NOT NULL,
+  `prix` float NOT NULL,
+  `description` varchar(255) NOT NULL,
+  `image` varchar(255) NOT NULL,
+  `taille` varchar(255) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+lancer Apache et mySQL dans xampp 
+

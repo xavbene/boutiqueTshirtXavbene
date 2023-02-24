@@ -43,7 +43,7 @@ CREATE TABLE `article` (
 INSERT INTO `article` (`id`, `nom`, `prix`, `description`, `image`, `taille`) VALUES
 (1, 't-shirt blanc', 10.1, 't-shirt blanc pa cher', '1702202309370863ef3cb43398a727593_9010_V1.webp   ', 'l'),
 (2, 'tshirt noir', 20.2, 'un T-shirt noir', '1702202309394563ef3d51acaf422087-11.jpg', 'l'),
-(5, 'encore un T-shirt', 35.45, 'il coute trop cher', '1702202311211563ef551b84cf1ssrco,slim_fit_t_shirt,mens,e0e1dd 064437a66d,front,square_product,600x600.jpg ', 'm'),
+(5, 'encore un T-shirt', 36, 'il coute trop cher', '1702202311211563ef551b84cf1ssrco,slim_fit_t_shirt,mens,e0e1dd 064437a66d,front,square_product,600x600.jpg ', 'm'),
 (6, 'T-shiiiiirt', 45.5, 'ceci est un t-shirt', '1702202311312563ef577dcc961612uqznVDYL._AC_UL1024_.jpg  ', 's'),
 (8, 'shirt-t', 66.6, 'un tshirt rouge', '1702202315570763ef95c3e6b7e0e744966-f8f8-4aae-97a5-2761f14798a6.webp', 'm');
 
